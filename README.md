@@ -1,13 +1,9 @@
-# UAS { Pertemuan ke 16 } <img src=https://logos-download.com/wp-content/uploads/2016/05/MySQL_logo_logotype.png width="130px" >
+# UAS { Pertemuan ke 16 } 
 
 
-## Profil
-| Variable | Isi |
-| -------- | --- |
-| **Nama** | Raditra Ikhwanul Arifin |
-| **NIM** | 312310487 |
-| **Kelas** | TI.23.A5 |
-| **Mata Kuliah** | Basis data |
+|**Nama**|**NIM**|**Kelas**|**Matkul**|
+|----|---|-----|------|
+|Raditra Ikhwanul Arifin|312310487|TI.23.A.5|Basis Data|
 
 # ER-D
 ![alt text](Screenshot/ER-D.png)
